@@ -1,3 +1,8 @@
+# [0.4.0]
+
+* Update package name
+* Add support for Dio 5.x
+
 # [0.3.1-dev.3]
 
 * Update Dependencies (thx abahnj)

@@ -4,7 +4,9 @@
 
 Dio's Interceptor implementation that sends http request metric data to Firebase.
 
-Required Dio in version at least *5.0.0*.
+Support Dio versions:
+* 4.x
+* 5.0.0
 
 It was forked from [repo](https://github.com/eyeem/dio_firebase_performance) and all dependencies were updated to the latest version.
 
